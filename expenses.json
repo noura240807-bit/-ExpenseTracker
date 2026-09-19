@@ -8,5 +8,10 @@
         "amount": 2.0,
         "category": "food",
         "date": "13-9-2026"
+    },
+    {
+        "amount": 20.0,
+        "category": "travel",
+        "date": "19-09-2026"
     }
 ]
