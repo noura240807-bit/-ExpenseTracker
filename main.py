@@ -58,7 +58,7 @@ def main():
         elif choice == "3":
             total_expense(expenses)
         elif choice == "4":
-            print("Bye!")
+            print("Tata Bye Bye!")
             break
         else:
             print("Invalid choice, try again.\n")
