@@ -59,6 +59,7 @@ def main():
             total_expense(expenses)
         elif choice == "4":
             print("Tata Bye Bye!")
+            print("Thank you for using the Expense Tracker. Have a great day!")
             break
         else:
             print("Invalid choice, try again.\n")
